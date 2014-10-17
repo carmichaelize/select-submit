@@ -1,11 +1,10 @@
 #SelectSubmit()
 
-The SelectSubmit plugin will submit the form a select element is part of when its value is changed.
+The SelectSubmit plugin will submit the parent form when the value of a select element is changed.
 
 ##Usage
 
 	$('.select-submit').selectSubmit();
-
 
 ##Methods
 
@@ -21,3 +20,6 @@ Use this method to reinitialize the instance after it has been removed.
 
 	$('.select-submit').selectSubmit('create');
 
+##Licence
+
+[MIT](http://opensource.org/licenses/MIT)

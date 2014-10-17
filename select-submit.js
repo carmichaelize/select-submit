@@ -1,7 +1,7 @@
 /*
 *
 * Project: SelectSubmit
-* URL: http://www.carmichaelize.co.uk
+* URL: https://github.com/carmichaelize/select-submit
 * Author: Scott Carmichael
 * Version: 1.0
 *
